@@ -1,0 +1,8 @@
+﻿***This is BRANCH code***
+case,name,email,pass,gender
+TestCase1,Bab,myl@hotmail.com,myl1234,Male
+TestCase2,Kat,kat@gmail.com,kat5678,Female
+spam,Unknown,uk@outlook.com,wtf9999,Both
+Added stuff of user1
+Added stuff of user2
+
